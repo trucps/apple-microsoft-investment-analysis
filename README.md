@@ -49,13 +49,4 @@
 2. BlackRock Inc. – 580,123,456 shares (7.81%)
 3. State Street Corp – 306,789,123 shares (4.13%)
 
-## Analyst Sentiment (Past 12 months)
-
-**Apple (AAPL)** – 41 analysts: 24 Strong Buy, 13 Buy, 4 Hold, 0 Sell.
-**Microsoft (MSFT)** – 48 analysts: 32 Strong Buy, 13 Buy, 3 Hold, 0 Sell.
-
-**Summary**: Both companies enjoy strong buy recommendations, with Microsoft showing a slightly higher proportion of Strong Buy ratings.
-
----
-
-*Prepared for portfolio management course*
+## Analyst Sentiment 
